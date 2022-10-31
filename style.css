@@ -812,7 +812,12 @@ h4 {
 .bg-dots-bg {
     background-image: url("img/dots-bg.png");
 }
-
+.text {
+    display: flex;
+    /* justify-content: center; */
+    flex-direction: column;
+    align-items: center;
+}
 .bg-lines-h2-bg {
     background-image: url("img/lines-h2-bg.png");
 }
