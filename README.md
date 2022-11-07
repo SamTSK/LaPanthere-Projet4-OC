@@ -25,4 +25,3 @@ Dans vos différentes recommandations, j’aimerais que vous prennez des mesures
 
 Tous ces éléments devront être codés en HTML et CSS. Fais également attention à ce que le site soit toujours adapté à toutes les tailles d’écran après tes modifications.
 
-Pour avoir une idée de la MAQUETTE DE BASE cliquez [ici](https://samtsk.github.io/LaPanth-re-Samira-Tahirou/).
